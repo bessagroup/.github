@@ -1,1 +1,1 @@
-# .github
+# Bessa Research Group
