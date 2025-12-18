@@ -1,4 +1,6 @@
+Hello! You might use one of the following templates for your pull request.
 Click the `Preview` tab and select a PR template:
 
-- [CRW](?expand=1&template=code_release_week.md)
-- [Default](?expand=1&template=default.md)
+- [Code Release Week](?expand=1&template=code_release_week.md)
+
+Otherwise, feel free to delete this text and write your own description for the pull request.
